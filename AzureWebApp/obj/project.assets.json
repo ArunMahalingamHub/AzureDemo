@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\z0049tkj\\Source\\Repos\\AzureWebApp\\AzureWebApp\\AzureWebApp.csproj",
+      "projectUniqueName": "D:\\AM-Docs\\OneDrive - Siemens Healthineers\\06-REPO\\VSProj\\AzureWebApp\\AzureWebApp\\AzureWebApp.csproj",
       "projectName": "AzureWebApp",
-      "projectPath": "C:\\Users\\z0049tkj\\Source\\Repos\\AzureWebApp\\AzureWebApp\\AzureWebApp.csproj",
+      "projectPath": "D:\\AM-Docs\\OneDrive - Siemens Healthineers\\06-REPO\\VSProj\\AzureWebApp\\AzureWebApp\\AzureWebApp.csproj",
       "packagesPath": "C:\\Users\\z0049tkj\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\z0049tkj\\Source\\Repos\\AzureWebApp\\AzureWebApp\\obj\\",
+      "outputPath": "D:\\AM-Docs\\OneDrive - Siemens Healthineers\\06-REPO\\VSProj\\AzureWebApp\\AzureWebApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
